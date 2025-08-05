@@ -18,6 +18,7 @@ public class Principal {
             System.out.printf("O número 5d é maior que %d.", y, x);
         } else{
             System.out.printf("Os números digitados são iguais");
+            
         }
     }
 }

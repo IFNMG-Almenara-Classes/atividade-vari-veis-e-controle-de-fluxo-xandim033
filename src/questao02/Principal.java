@@ -8,6 +8,8 @@ public class Principal {
     float peso;
     float soma = 0;
 
+
+    
     System.out.printf("Informe sua altura: ");
     altura = entrada.nextFloat();
     System.out.printf("Informe seu peso: ");
