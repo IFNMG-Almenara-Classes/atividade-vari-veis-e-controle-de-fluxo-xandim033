@@ -12,6 +12,7 @@ public class Principal {
         System.out.println("O número digitado é par.");
     } else {
         System.out.println("O número digitado é ímpar.");
+
     }
     }
 }
